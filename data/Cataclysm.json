@@ -1,0 +1,24 @@
+{
+    "id": 3979721,
+    "name": "Cataclysm",
+    "author": "Ggb0y",
+    "creators": [],
+    "verifier": "Alessandro Amato",
+    "verification": "https://www.youtube.com/watch?v=dYt5fp5VGVs",
+    "percentToQualify": 63,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "David Bira Alexandru",
+            "link": "https://www.youtube.com/watch?v=YDyaj8YqXyE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Gabriele Manicardi",
+            "link": "https://www.youtube.com/watch?v=ytf8AHAntp8",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
