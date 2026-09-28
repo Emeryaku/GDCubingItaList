@@ -30,13 +30,18 @@
             "user": "Daniele Fusella",
             "link": "https://www.youtube.com/",
             "percent": 100,
-            "hz": 60
+            "hz": 240
         },
         {
             "user": "Alessandro Amato",
             "link": "https://www.youtube.com/",
             "percent": 100,
-            "hz": 60
+            "hz": 120
         },
+        {
+            "user": "Jack Valduga",
+            "link": "https://www.youtube.com/watch?v=HiuxAYSrA08",
+            "percent": 100,
+            "hz": 240
     ]
 }
