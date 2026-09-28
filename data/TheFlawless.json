@@ -8,8 +8,17 @@
     "percentToQualify": "66",
     "password": "Free To Copy",
     "records": [
-      { 
-        "user": "Alessandro Amato",
-        "
+        {
+            "user": "Alessandro Amato",
+            "link": "https://www.youtube.com/watch?v=FgBD1NyJqdw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Riccardo Lodi",
+            "link": "https://www.youtube.com/watch?v=SyimUCBIo6c",
+            "percent": 72,
+            "hz": 240
+        }
     ]
 }
