@@ -27,9 +27,16 @@
             "hz": 60
         },
         {
-            "user": "Mattia Rigo",
+            "user": "Daniele Fusella",
+            "link": "https://www.youtube.com/",
             "percent": 100,
             "hz": 60
-        }
+        },
+        {
+            "user": "Alessandro Amato",
+            "link": "https://www.youtube.com/",
+            "percent": 100,
+            "hz": 60
+        },
     ]
 }
